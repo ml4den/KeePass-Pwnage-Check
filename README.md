@@ -35,4 +35,5 @@ This script does the following:
 5. Mark any matches as pwned and export the results in a new CSV file.
 
 ## Disclaimers
-This is not a "proper" PowerShell script. It has been designed to be readable by novice users and does not follow usual standards or conventions. It is meant to do one job and one job only
+This is not a "proper" PowerShell script. It has been designed to be readable by novice users and does not follow usual standards or conventions. It is meant to do one job and one job only - an that is to allow anyone to check password pwnage, while establishing trust in the process.
+If you're writing your own script based on this, you can check good practice conventions [here](https://github.com/PoshCode/PowerShellPracticeAndStyle).
