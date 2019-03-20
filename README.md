@@ -3,7 +3,7 @@ This script facilitates checking of KeePass passwords for pwnage - or in other w
 
 ## Instructions
 1. Secure your workspace (optional - see below).
-2. Download the ps1 script from this repo to your PC and open it in the Windows PowerShell ISE.
+2. [Download](https://github.com/ml4den/haveibeenpwned-ps/archive/master.zip) the script from this repo to your PC and open it in the Windows PowerShell ISE.
 3. Review the script code and make sure you understand how it works.
 4. Run `Set-ExecutionPolicy Unrestricted -Scope Process` which will allow the script to run.
 5. Run the script.
